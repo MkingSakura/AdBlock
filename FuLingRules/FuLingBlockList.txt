@@ -9,7 +9,7 @@
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
 # 规则说明B：规则具有时效性，使用前可自行排查当前域名是否有效。
 #************************************************************************#
-# 更新时间：2026-08-06
+# 更新时间：2026-08-07
 #************************************************************************#
 
 /ad-sign.*/
@@ -36,12 +36,15 @@
 ||*.3r5ia7l.xyz^
 ||*.4egscv.com^
 ||*.59p643.com^
+||*.5z3r02h.com^
 ||*.5z6h6b.cn^
 ||*.60qso7.com^
+||*.636371.lifestyle^
 ||*.6nxa6g.com^
 ||*.80ritc.com^
 ||*.8359300.cc^
 ||*.8vx3zks.xyz^
+||*.9nm1ol2.com^
 ||*.9tjoj6.com^
 ||*.a48962121.top^
 ||*.acdnrvh.com^
@@ -49,6 +52,8 @@
 ||*.anhuyj.cn^
 ||*.arbyyu.com^
 ||*.awkwla.cn^
+||*.awsrp4.com^
+||*.b26u62v.com^
 ||*.bg3partner.fun^
 ||*.bg4f8d.com^
 ||*.bgbjjtd.com^
@@ -82,10 +87,12 @@
 ||*.fohbgjv.com^
 ||*.fokm37.cn^
 ||*.ft33t3w.pro^
+||*.fyzermq.com^
 ||*.g0d679.com^
 ||*.gdolr.cn^
 ||*.giqnyl.cn^
 ||*.h6jv1o.com^
+||*.h9bc7k.top^
 ||*.hrdhej.xyz^
 ||*.hychwg.cyou^
 ||*.iburtq.xyz^
@@ -96,6 +103,7 @@
 ||*.jjoiw4.com^
 ||*.jjzemoc3ca.top^
 ||*.jqnljze.xyz^
+||*.jsak628.vip^
 ||*.jtkkkxy.com^
 ||*.jvere.xyz^
 ||*.jwcnmta.top^
@@ -107,11 +115,13 @@
 ||*.ky5683295.cc^
 ||*.laebu.cn^
 ||*.ligmd359543.vip^
+||*.lwaed631.vip^
 ||*.lxclli.cn^
 ||*.lzwrhiw.xyz^
 ||*.md410.cc^
 ||*.mise*.buzz^
 ||*.mkwqj.com^
+||*.mmdf645.vip^
 ||*.mokhuba.com^
 ||*.mvepu.com^
 ||*.myug4s.com^
@@ -135,6 +145,7 @@
 ||*.pnwix.cn^
 ||*.poeme.cn^
 ||*.ppfu3m.com^
+||*.pqwxf4b.com^
 ||*.qgivvd.cn^
 ||*.qiuxl11.cn^
 ||*.r1gu.com^
@@ -150,12 +161,14 @@
 ||*.tkmihh.xyz^
 ||*.tnprn.cn^
 ||*.u101vb.com^
+||*.u2ir3v.top^
 ||*.ud9ipy.com^
 ||*.ul2tos.cn^
 ||*.uryxw.com^
 ||*.uweisit.top^
 ||*.v4v6v4.com^
 ||*.vkomjd.com^
+||*.vu1elrx.com^
 ||*.wacaoldy1.com^
 ||*.wfojsm.com^
 ||*.wknij.com^
@@ -256,7 +269,9 @@
 ||64.f64976134.com^
 ||65564535.com^
 ||668in.vip^
+||67evjpvdi.com^
 ||698444.lol^
+||6un45sxmx.com^
 ||6w3tqs.lppfkj.com^
 ||701110.xyz^
 ||705jte32.ch3hugifdos.com^
@@ -296,7 +311,6 @@
 ||api.aoao11191iis.top^
 ||api.aoao11221iis.top^
 ||api.aoao12060iis.top^
-||api.installer.xiaomi.com^
 ||api.juliangcili.com^
 ||apk2.jingpengpeixun.xyz^
 ||app.bobobo65.icu^
@@ -357,6 +371,7 @@
 ||dig.bdurl.net^
 ||dmaoaikufn2.com^
 ||dme.lchzwz.com^
+||dnweq5z5g.com^
 ||ds4x53xfg4f53gh453h.top^
 ||e54.e5449949.vip^
 ||e5m2gp.sujev.cn^
@@ -418,6 +433,7 @@
 ||iwuaym.icu^
 ||iy3m.xm849qx.pro^
 ||izicai.xyz^
+||izq.lwaed633.vip^
 ||j3.jtezxmpb.xyz^
 ||j3818xx.cc^
 ||j6u8vwfmbj-1311321840.cos-website.ap-nanjing.myqcloud.com^
@@ -516,9 +532,11 @@
 ||pvam2e.zxtld.com^
 ||qbb.087www2.cc^
 ||qnguqmt.top^
+||qouy029.top^
 ||qpdce1040.com^
 ||qps.000aaap2023.com^
 ||qq17.toytoy.xyz^
+||qthw061.top^
 ||qucvedv.cn^
 ||r82tmbfb7qgeawsf.oz8xhen.top^
 ||rpdi192.icu^
@@ -543,6 +561,7 @@
 ||static.ads-twitter.com^
 ||static.trafficjunky.com^
 ||statics.woozooo.com^
+||swmshpphnu2.com^
 ||syzbd57.com^
 ||szebf270.com^
 ||t16-fghgdf.com^
@@ -579,6 +598,7 @@
 ||wed1.fxqzaoa.cn^
 ||wed12.fxqzaoa.cn^
 ||wnymfqnrzp6.com^
+||wpy.jsak634.vip^
 ||wrx.lesson99.com^
 ||wuk.91c0218.top^
 ||ww-7o1-0h.os.23v7m9.cc^
@@ -588,6 +608,7 @@
 ||www.150ixesut.top^
 ||www.199221.top^
 ||www.35609731.xyz^
+||www.437944.xyz^
 ||www.a50xf.com^
 ||www.aitongji.vip^
 ||www.btebgl.xyz^
@@ -615,6 +636,7 @@
 ||www.mt*.vip^
 ||www.nleljf.xyz^
 ||www.ocfgaa.xyz^
+||www.ompkcy255.vip^
 ||www.ppqqzkn.com^
 ||www.pufren.xyz^
 ||www.qd3bcdn1130.top^
