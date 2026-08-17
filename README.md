@@ -104,6 +104,7 @@
 | :-: | :-: |
 | ADSLJF | [订阅](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/OtherRules/ADSLJFRules.txt) |
 | AdFilters | [订阅](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/OtherRules/AdFiltersRules.txt) |
+| FallingStar | [订阅](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/OtherRules/FallingStar.txt) |
 | AdRules Hosts List hosts | [ 订阅](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/OtherRules/AdRulesListHosts.txt) |
 | 神机规则 | [订阅](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/OtherRules/DivineMachineRules.txt) |
 | 未知规则 | [订阅](https://raw.githubusercontent.com/Kuroba-Sayuki/FuLing-AdRules/main/OtherRules/WzRules.txt) |
