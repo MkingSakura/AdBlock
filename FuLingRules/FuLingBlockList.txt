@@ -31,6 +31,7 @@
 ||*.5z6h6b.cn^
 ||*.60qso7.com^
 ||*.636371.lifestyle^
+||*.6f2fd.com^
 ||*.6nxa6g.com^
 ||*.80ritc.com^
 ||*.8359300.cc^
@@ -84,6 +85,7 @@
 ||*.giqnyl.cn^
 ||*.h6jv1o.com^
 ||*.h9bc7k.top^
+||*.hbshgll.cn^
 ||*.hrdhej.xyz^
 ||*.hychwg.cyou^
 ||*.iburtq.xyz^
@@ -113,6 +115,7 @@
 ||*.mise*.buzz^
 ||*.mkwqj.com^
 ||*.mmdf645.vip^
+||*.mmdg731.vip^
 ||*.mokhuba.com^
 ||*.mvepu.com^
 ||*.myug4s.com^
@@ -126,6 +129,7 @@
 ||*.o96jic.com^
 ||*.obj23q.com^
 ||*.ochhnea.xyz^
+||*.olbbfulmed.com^
 ||*.ombuw.xyz^
 ||*.oneliner.cn^
 ||*.oweisik.top^
@@ -141,16 +145,19 @@
 ||*.qiuxl11.cn^
 ||*.r1gu.com^
 ||*.rfvjl.cn^
+||*.rhkd324.com^
 ||*.rtnwv.com^
 ||*.s8etj5.com^
 ||*.siigck.xyz^
 ||*.sjpxfz.xyz^
 ||*.so04011koaq.com^
+||*.svxd326.vip^
 ||*.tap0102mzq.top^
 ||*.tbyfz.xyz^
 ||*.tfkoa.com^
 ||*.tkmihh.xyz^
 ||*.tnprn.cn^
+||*.twpvm.com^
 ||*.u101vb.com^
 ||*.u2ir3v.top^
 ||*.ud9ipy.com^
@@ -163,11 +170,13 @@
 ||*.wacaoldy1.com^
 ||*.wfojsm.com^
 ||*.wknij.com^
+||*.wwbszy.com^
 ||*.wy2qq.top^
 ||*.x586di.com^
 ||*.x7jy10.com^
 ||*.xpj2443430.cc^
 ||*.xqojux.xyz^
+||*.xsade391.vip^
 ||*.xwcphd.xyz^
 ||*.xxsp002.cyou^
 ||*.xzdabyw.xyz^
@@ -406,6 +415,7 @@
 ||hfisngksng.com^
 ||hikaybqcp5tz169.cc^
 ||hkgryazmc.pubend81372.vip^
+||hkl.xiuseab222.vip^
 ||hkw27.icu^
 ||hp6v2.iep53.vip^
 ||htcqlpsfhl4.xyz^
@@ -507,6 +517,7 @@
 ||ommbqw.icu^
 ||op53t.nbganghui.com^
 ||oqissyeygvnnhigj.ayh3.xyz^
+||orvexlumin.698518.xyz^
 ||ouj.vtqccm.com^
 ||p.rzlp.xyz^
 ||p3.web3cdn.cn^
@@ -648,6 +659,7 @@
 ||xfiwpoj.icu^
 ||xgnsvx.stwqhfi.cn^
 ||xh990214c.llpstudy.top^
+||xhffhsl.*.boutique^
 ||xhw13.top^
 ||xiaorongyan.com^
 ||xjlwz.eplwgq.cn^
