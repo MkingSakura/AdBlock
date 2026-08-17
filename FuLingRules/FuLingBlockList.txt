@@ -9,19 +9,10 @@
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
 # 规则说明B：规则具有时效性，使用前可自行排查当前域名是否有效。
 #************************************************************************#
-# 更新时间：2026-08-07
+# 更新时间：2026-08-17
 #************************************************************************#
 
-/ad-sign.*/
-/bytedance.*/
-/bytegoofy.*/
-/byteorge.*/
-/fqnovelvod.*/
-/lf.fqnovel.*/
-/mgsdk-sign.*/
 /pangolin-sdk.*/
-/snssdk.*/
-/zijieapi.*/
 ||*-*-*-lrycfv.vip^
 ||*.*-t0613.vip^
 ||*.01fwzb.com^
@@ -296,7 +287,6 @@
 ||aaa.za1.cfykd.cn^
 ||aaa.za1.maetg.cn^
 ||abgr2x.aprewf.cn^
-||activity-ag.awemeughun.com^
 ||ad.scdn.io^
 ||ads-api.twitter.com^
 ||aeventlog.beacon.qq.com^
@@ -304,7 +294,6 @@
 ||am.bwaa301.icu^
 ||amx782p.top^
 ||aotheve.beacon.qq.com^
-||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||api.ad.xiaomi.com^
 ||api.admange.com^
 ||api.aoao11190iis.top^
@@ -368,7 +357,6 @@
 ||dfsj8050.ahyyxpk.com^
 ||dfstt5031.ayhnb.cn^
 ||dhfkw.renq.ufyij.cn^
-||dig.bdurl.net^
 ||dmaoaikufn2.com^
 ||dme.lchzwz.com^
 ||dnweq5z5g.com^
@@ -498,7 +486,6 @@
 ||mobile.yangkeduo.com^
 ||mofjgesm.memti79268.cc^
 ||moka113.jdjdodd.cn^
-||msync-im1-vip6-std.easemob.com^
 ||mt131840.aishanglight.com^
 ||muzy99.top^
 ||mv71.top^
@@ -545,12 +532,8 @@
 ||sat29.so*koaq.com^
 ||sdk2xr232.top^
 ||serty.ktllbb.com^
-||settings.ttwebview.com^
-||sf3-fe-tos.pglstatp-toutiao.com^
-||sf3-ttcdn-tos.pstatp.com^
 ||sfh35.icu^
 ||skchn14.dsgfhl.com^
-||skdisplay.jd.com^
 ||skej236.icu^
 ||ss0913.utbcd.cn^
 ||ss1744406792.jdjdjdc.cn^
