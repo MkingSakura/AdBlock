@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: Falling Star
-! Update Time: 2026-07-20
+! Update Time: 2026-09-15
 
 @@||*-album.uc.cn^
 @@||*-api.uc.cn^
@@ -8,8 +8,10 @@
 @@||a0.app.xiaomi.com^
 @@||ac.opapp.cn^
 @@||acs-m.koubei.com^
+@@||ad.moonton.cn^
 @@||adtrack.xiaojukeji.com^
 @@||aligames.com^
+@@||api.installer.xiaomi.com^
 @@||api.look.163.com^
 @@||apm-rum.inf.miui.com^
 @@||article.zlink.toutiao.com^
@@ -54,12 +56,14 @@
 @@||knicks.jd.com^
 @@||lingxigames.com^
 @@||locprivate-tostc.sf-express.com^
+@@||log.dailygn.com^
 @@||log.snssdk.com^
 @@||mapi.bestpay.com.cn^
 @@||mcc.inf.miui.com^
 @@||mime.baidu.com^
 @@||mrn.meituan.net^
 @@||music.apple.com^
+@@||nracc.ele.me^
 @@||order.sm.cn^
 @@||prod-chat-kimi.tos-cn-beijing.volces.com^
 @@||pull.yximgs.com^
@@ -82,6 +86,7 @@
 @@||snowflake.qq.com^
 @@||static.fengkongcloud.com^
 @@||szlong.weixin.qq.com^
+@@||tapapis.cn^
 @@||tdid.m.qq.com^
 @@||tnc3-alisc1.snssdk.com^
 @@||toblog.ctobsnssdk.com^
@@ -115,6 +120,7 @@
 ||*-reading.fqnovelstatic.com^
 ||*0kkkkkt.com^
 ||*dns.weixin.qq.*^
+||*httpdns.*^
 ||000aaap2023.com^
 ||002st.top^
 ||005www11w.top^
@@ -194,6 +200,8 @@
 ||922-992.icu^
 ||9983x.com^
 ||9dg6a.xyz^
+||_https.*^
+||_svcb.*^
 ||a000p.icu^
 ||a21l.top^
 ||a48699053.top^
@@ -406,6 +414,7 @@
 ||dfdd-toubiaole.com^
 ||dgswpfxttpjvz6h9s013.com^
 ||dhgycl.cn^
+||dig.zjurl.cn^
 ||dingjiwangluo.com^
 ||dingouqc.com^
 ||ditiehunlian.com^
@@ -417,18 +426,32 @@
 ||dmrtb.com^
 ||dnl382.com^
 ||dns*.weixin.qq.*^
+||dns.163.com^
+||dns.360.cn^
+||dns.bytedance.com^
 ||dns.jd.com^
+||dns.kuaishou.com^
 ||dns.m.sm.cn^
+||dns.pinduoduo.com^
 ||dns.qiyipic.iqiyi.com^
 ||dns.qq.com^
+||dns.sina.com.cn^
+||dns.sohu.com^
+||dns.taobao.com^
+||dns.tmall.com^
+||dns.toutiao.com^
 ||dns.weibo.cn^
+||dns.yy.com^
+||dns2.q2cdn.com^
 ||docs.c-ctrip.com^
 ||doh.dns.apple.com^
 ||doh.iqiyi.com^
 ||doh.ptqy.gitv.tv^
+||doh.qq.com^
 ||domob.cn^
 ||domobcdn.com^
 ||dot.api.idmzj.com^
+||dot.qq.com^
 ||doubleclick.net^
 ||down.apps.sina.cn^
 ||download*.ctrip.com^
@@ -555,7 +578,6 @@
 ||htcqlpsfhl4.xyz^
 ||hthvip1902.com^
 ||htpwoc488m.xyz^
-||httpdns.*^
 ||huixuanjiasu.com^
 ||hx3m5vq.com^
 ||hxkyuwr1040.vip^
@@ -848,7 +870,6 @@
 ||scxj1031.xyz^
 ||sd-gl.xycdn.com^
 ||sdk*xyajs.data.kuiniuca.com^
-||sdk-ab-config-cdn.yunxish.com^
 ||sdk-log.partner.sm.cn^
 ||sdk.api.oaid.wocloud.cn^
 ||sdkapp.uve.weibo.com^
