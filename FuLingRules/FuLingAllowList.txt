@@ -9,7 +9,7 @@
 # 规则说明A：列表规则均为网络冲浪时抓取，并已通过实机测试。
 # 规则说明B：规则具有时效性，使用前可自行排查当前域名是否有效。
 #************************************************************************#
-# 更新时间：2026-08-17
+# 更新时间：2026-09-15
 #************************************************************************#
 
 @@||*-cf.xvideos-cdn.com^
@@ -22,6 +22,10 @@
 @@||*-verify.captcha-open-southeast.aliyuncs.com^
 @@||*-verify.captcha-open.aliyuncs.com^
 @@||*.*.szbdyd.com^
+@@||*.4399.com^
+@@||*.5054399.com^
+@@||*.7k7k.com^
+@@||*.7k7kimg.cn^
 @@||*.95516.com^
 @@||*.a.yximgs.com^
 @@||*.akamai-cdn-content.com^
@@ -47,6 +51,7 @@
 @@||*.dlied1.cdntips.net^
 @@||*.forgecdn.net^
 @@||*.hicloud.com^
+@@||*.img4399.com^
 @@||*.ke.com^
 @@||*.lianjia.com^
 @@||*.mcdn.bilivideo.cn^
@@ -605,6 +610,7 @@
 @@||img3.tapimg.com^
 @@||img30.360buyimg.com^
 @@||img4.qy0.ru^
+@@||imga*.5054399.com^
 @@||imgessl.kugou.com^
 @@||imgservices-1252317822.image.myqcloud.com^
 @@||imgsrc.baidu.com^
@@ -1055,6 +1061,7 @@
 @@||proxy-tf-all-ws.bilivideo.com^
 @@||pss.bdstatic.com^
 @@||psstatic.cdn.bcebos.com^
+@@||ptlogin.4399.com^
 @@||ptlogin.yuewen.com^
 @@||pttn.m3pd.com^
 @@||ptx.cdntrex.com^
@@ -1119,6 +1126,7 @@
 @@||s0.meituan.net^
 @@||s01.mifile.cn^
 @@||s1.hdslb.com^
+@@||s1.img4399.com^
 @@||s1.meituan.net^
 @@||s1.voicecloud.cn^
 @@||s1.zhuanstatic.com^
@@ -1426,7 +1434,12 @@
 @@||www.17173.com^
 @@||www.360.cn^
 @@||www.360simg.com^
+@@||www.4399.cn^
+@@||www.4399.com^
+@@||www.5054399.com^
 @@||www.54647.io^
+@@||www.7k7k.com^
+@@||www.7k7kjs.cn^
 @@||www.9game.cn^
 @@||www.agiso.com^
 @@||www.ali213.net^
