@@ -11,7 +11,7 @@
 # 合并时间「①」：2022-01、2022-06、2022-10、2023-06、2024-06、2024-10
 # 合并时间「②」：2025-05、2025-06
 #************************************************************************#
-# 更新时间：2025-06-29
+# 更新时间：2026-09-15
 #************************************************************************#
 
 ||jiazhang.qq.com^
@@ -75679,7 +75679,6 @@ _zhike.htm
 ||image.upages.cn^
 ||image.whox2.co.kr/*/banner/
 ||image.winudf.com/*/upload/promopure/$domain=apkpure.com
-||imageadv.
 ||imageadvantage.net^
 ||imagebam.com/*.php?
 ||imagebam.com/csb.html
